@@ -22,7 +22,7 @@ def caesar_cipher_encode(key:int, message: str) -> str:
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Please provide <key> and optionally <message>/Format: python3 mycipher.py <key> [<message>] < input_file")
+        print("Please provide <key> and <message> or input file/Format: python3 mycipher.py <key> [<message>] or < input_file")
         sys.exit(1)
     
     key = int(sys.argv[1])
