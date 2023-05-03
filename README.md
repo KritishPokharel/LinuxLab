@@ -1,4 +1,3 @@
-# Open mycipher.py for the Ceasar Cipher code.
 # Creating Python programs in Codio
 
 ### Make a new file
